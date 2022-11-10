@@ -1,7 +1,5 @@
 # opwd - open parent working direcory
 
--
-
 &nbsp;
 
 On **macOS** opens the parent working directory on a new window in the **Finder**
